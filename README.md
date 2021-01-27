@@ -1,4 +1,5 @@
 # Simple 7-segment display thermometer 
+[![Build status](https://github.com/square-lang/Square/workflows/build/badge.svg)](https://github.com/square-lang/Square/actions)  
 Simple 7-segment display thermometer project  based on Arduino
 ## Description 
 The device is measures
